@@ -1,5 +1,2 @@
-#!/usr/bin/bash
-_dir= "$PWD"
-
-
-echo "$_dir"
+#!/bin/bash
+echo "$PWD"
