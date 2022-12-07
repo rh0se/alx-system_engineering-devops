@@ -1,2 +1,2 @@
 #!/bin/bash
-lacta tail -1 >> lacta
+tail -1 lacta >> lacta
