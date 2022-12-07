@@ -1,2 +1,2 @@
-#!/bib/bash
-export BEST = "School"
+#!/bin/bash
+BEST = "School"
